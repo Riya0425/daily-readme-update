@@ -1,2 +1,4 @@
-# daily-readme-update
-Daily GitHub activity log
+# Daily GitHub Activity
+
+Day 1 – Repository created
+
