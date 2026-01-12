@@ -5,6 +5,10 @@ Day 2 – Learning Excel
 Morning – Practice
 Afternoon – Revision
 Evening – Review
+Day 3 – Learning Excel
+Morning – Practice
+Afternoon – Revision
+Evening – Review
 
 
 
