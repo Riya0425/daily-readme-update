@@ -17,7 +17,11 @@ Day 5 – Learning sql
 Morning – Practice
 Afternoon – Revision
 Evening – Review
-Day 5 – sql project
+Day 6 – sql project
+Morning – Practice
+Afternoon – Revision
+Evening – Review
+Day 7 – sql project
 Morning – Practice
 Afternoon – Revision
 Evening – Review
