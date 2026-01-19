@@ -29,3 +29,8 @@ Day 8 – python project
 Morning – Practice
 Afternoon – Revision
 Evening – Review
+Day 9 – python project
+Morning – Practice
+Afternoon – Revision
+Evening – Review
+
