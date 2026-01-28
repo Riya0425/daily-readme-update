@@ -65,7 +65,7 @@ Day 15 – leetcode
 Morning – question 578
 Afternoon – Revision
 Evening – Review
-Day 15 – linkdin post
+Day 16 – linkdin post
 Morning – last day pending work 
 Afternoon – Revision
 Evening – Review
