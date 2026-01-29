@@ -70,7 +70,7 @@ Morning – last day pending work
 Afternoon – Revision
 Evening – Review
 Day 17 – gfg connect post
-Morning – last day pending work 
+Morning – leetcode overview
 Afternoon – Revision
 Evening – Review
 
