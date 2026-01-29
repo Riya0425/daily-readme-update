@@ -69,3 +69,9 @@ Day 16 – linkdin post
 Morning – last day pending work 
 Afternoon – Revision
 Evening – Review
+Day 17 – gfg connect post
+Morning – last day pending work 
+Afternoon – Revision
+Evening – Review
+
+
