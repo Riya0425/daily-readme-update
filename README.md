@@ -73,5 +73,9 @@ Day 17 – gfg connect post
 Morning – leetcode overview
 Afternoon – Revision
 Evening – Review
+Day 18 – gfg connect post
+Morning – leetcode overview
+Afternoon – Revision
+Evening – Review
 
 
