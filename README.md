@@ -78,7 +78,7 @@ Morning – last day pending work
 Afternoon – Revision
 Evening – Review
 Day 18 – DA Project
-Morning – last day pending work 
+Morning – uploaded
 Afternoon – Revision
 Evening – Review
 
