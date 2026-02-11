@@ -113,7 +113,7 @@ Day 25 – portfolio website
 Morning – uploaded
 Afternoon – Revision
 Evening – Review
-Day 25 – portfolio website
+Day 26 – portfolio website
 Morning – uploaded
 Afternoon – Revision
 Evening – Review
