@@ -125,7 +125,7 @@ Day 28 – portfolio website
 Morning – uploaded
 Afternoon – Revision
 Evening – Review
-Day 28 – portfolio website
+Day 29 – portfolio website
 Morning – uploaded
 Afternoon – Revision
 Evening – Review
