@@ -129,7 +129,7 @@ Day 29 – portfolio website
 Morning – uploaded
 Afternoon – Revision
 Evening – Review
-Day 29 – portfolio website
+Day 30 – portfolio website
 Morning – uploaded
 Afternoon – Revision
 Evening – Review
