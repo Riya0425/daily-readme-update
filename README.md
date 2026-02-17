@@ -133,7 +133,7 @@ Day 30 – potd
 Morning – uploaded
 Afternoon – Revision
 Evening – Review
-Day 3 – potd
+Day 30 – potd
 Morning – uploaded
 Afternoon – Revision
 Evening – Review
