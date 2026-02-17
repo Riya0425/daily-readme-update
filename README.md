@@ -1,139 +1,164 @@
-# Daily GitHub Activity
+# 🚀 Daily GitHub Activity Log
 
-Day 1 – Repository created
-Day 2 – Learning Excel
-Morning – Practice
-Afternoon – Revision
-Evening – Review
-Day 3 – doing project
-Morning – Practice
-Afternoon – Revision
-Evening – Review
-Day 4 – Learning sql
-Morning – Practice
-Afternoon – Revision
-Evening – Review
-Day 5 – Learning sql
-Morning – Practice
-Afternoon – Revision
-Evening – Review
-Day 6 – sql project
-Morning – Practice
-Afternoon – Revision
-Evening – Review
-Day 7 – sql project
-Morning – Practice
-Afternoon – Revision
-Evening – Review
-Day 8 – python project
-Morning – Practice
-Afternoon – Revision
-Evening – Review
-Day 9 – python project
-Morning – Practice
-Afternoon – Revision
-Evening – Review
-Day 10 – python project
-Morning – Practice
-Afternoon – Revision
-Evening – Review
-Day 11 – leetcode
-Morning – question 175
-Afternoon – Revision
-Evening – Review
-Day 12 – leetcode
-Morning – question 175
-Afternoon – Revision
-Evening – Review
-Day 13 – leetcode
-Morning – question 181
-Afternoon – Revision
-Evening – Review
-Day 13 – leetcode
-Morning – question 511
-Afternoon – Revision
-Evening – Review
-Day 14 – leetcode
-Morning – question 511
-Afternoon – Revision
-Evening – Review
-Day 15 – leetcode
-Morning – question 577
-Afternoon – Revision
-Evening – Review
-Day 15 – leetcode
-Morning – question 578
-Afternoon – Revision
-Evening – Review
-Day 16 – linkdin post
-Morning – last day pending work 
-Afternoon – Revision
-Evening – Review
-Day 17 – gfg connect post
-Morning – leetcode overview
-Afternoon – Revision
-Evening – Review
-Day 18 – gfg connect post
-Morning – last day pending work 
-Afternoon – Revision
-Evening – Review
-Day 18 – DA Project
-Morning – uploaded
-Afternoon – Revision
-Evening – Review
-Day 18 – portfolio website
-Morning – uploaded
-Afternoon – Revision
-Evening – Review.
-Day 19 – portfolio website
-Morning – uploaded
-Afternoon – Revision
-Evening – Review
-Day 20 – portfolio website
-Morning – uploaded
-Afternoon – Revision
-Evening – Review
-Day 21 – portfolio website
-Morning – uploaded
-Afternoon – Revision
-Evening – Review
-Day 22 – portfolio website
-Morning – uploaded
-Afternoon – Revision
-Evening – Review
-Day 23 – portfolio website
-Morning – uploaded
-Afternoon – Revision
-Evening – Review
-Day 24 – portfolio website
-Morning – uploaded
-Afternoon – Revision
-Evening – Review
-Day 25 – portfolio website
-Morning – uploaded
-Afternoon – Revision
-Evening – Review
-Day 26 – portfolio website
-Morning – uploaded
-Afternoon – Revision
-Evening – Review
-Day 27 – portfolio website
-Morning – uploaded
-Afternoon – Revision
-Evening – Review
-Day 28 – portfolio website
-Morning – uploaded
-Afternoon – Revision
-Evening – Review
-Day 29 – portfolio website
-Morning – uploaded
-Afternoon – Revision
-Evening – Review
-Day 30 – potd
-Morning – uploaded
-Afternoon – Revision
-Evening – Review
-Day 30 – potd
-Morning – uploaded
-Afternoon – Revision
-Evening – Review
+This repository tracks my daily learning, practice, and project progress.  
+Focused on building consistency, improving problem-solving skills, and developing practical projects.
+
+---
+
+## 📅 Progress Timeline
+
+### ✅ Day 1
+- Repository Created
+
+---
+
+### ✅ Day 2 — Learning Excel
+- 🌅 Morning: Practice  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review  
+
+---
+
+### ✅ Day 3 — Project Work
+- 🌅 Morning: Practice  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review  
+
+---
+
+### ✅ Day 4 — Learning SQL
+- 🌅 Morning: Practice  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review  
+
+---
+
+### ✅ Day 5 — Learning SQL
+- 🌅 Morning: Practice  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review  
+
+---
+
+### ✅ Day 6 — SQL Project
+- 🌅 Morning: Practice  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review  
+
+---
+
+### ✅ Day 7 — SQL Project
+- 🌅 Morning: Practice  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review  
+
+---
+
+### ✅ Day 8 — Python Project
+- 🌅 Morning: Practice  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review  
+
+---
+
+### ✅ Day 9 — Python Project
+- 🌅 Morning: Practice  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review  
+
+---
+
+### ✅ Day 10 — Python Project
+- 🌅 Morning: Practice  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review  
+
+---
+
+### ✅ Day 11 — LeetCode
+- 🌅 Morning: Question 175  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review  
+
+---
+
+### ✅ Day 12 — LeetCode
+- 🌅 Morning: Question 175  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review  
+
+---
+
+### ✅ Day 13 — LeetCode
+- 🌅 Morning: Question 181  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review  
+
+---
+
+### ✅ Day 14 — LeetCode
+- 🌅 Morning: Question 511  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review  
+
+---
+
+### ✅ Day 15 — LeetCode
+- 🌅 Morning: Question 577  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review  
+
+---
+
+### ✅ Day 16 — Professional Update
+- 🌅 Morning: Pending Work Completion  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review  
+
+---
+
+### ✅ Day 17 — Community Engagement
+- 🌅 Morning: LeetCode Overview  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review  
+
+---
+
+### ✅ Day 18 — Major Upload Day
+- 📊 Data Analytics Project Uploaded  
+- 🌐 Portfolio Website Uploaded  
+- 🌅 Morning: Uploads  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review  
+
+---
+
+### ✅ Days 19–29 — Portfolio Website Development
+- 🌅 Morning: Upload / Improvements  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review  
+
+---
+
+### ✅ Day 30 — Problem of the Day (POTD)
+- 🌅 Morning: Uploaded  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review  
+
+---
+
+## 🎯 Focus Areas
+
+- 📘 Continuous Learning  
+- 💻 Coding Practice  
+- 🧠 Problem Solving  
+- 🚀 Project Development  
+- 🔁 Revision & Review  
+
+---
+
+## ✨ Philosophy
+
+> **Consistency builds mastery.**
+
+---
