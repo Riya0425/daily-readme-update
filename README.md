@@ -129,7 +129,11 @@ Day 29 – portfolio website
 Morning – uploaded
 Afternoon – Revision
 Evening – Review
-Day 30 – portfolio website
+Day 30 – potd
+Morning – uploaded
+Afternoon – Revision
+Evening – Review
+Day 3 – potd
 Morning – uploaded
 Afternoon – Revision
 Evening – Review
