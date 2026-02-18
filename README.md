@@ -145,7 +145,7 @@ Focused on building consistency, improving problem-solving skills, and developin
 - 🌞 Afternoon: Revision  
 - 🌙 Evening: Review  
 
-✅ Day 30 — Problem of the Day (POTD)
+### ✅ Day 31 — Problem of the Day (POTD)
 - 🌅 Morning: Uploaded  
 - 🌞 Afternoon: Revision  
 - 🌙 Evening: Review  
