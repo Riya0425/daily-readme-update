@@ -164,7 +164,11 @@ Focused on building consistency, improving problem-solving skills, and developin
 ### ✅ Day 35 — Problem of the Day (POTD)
 - 🌅 Morning: Uploaded  
 - 🌞 Afternoon: Revision  
-- 🌙 Evening: Review  
+- 🌙 Evening: Review
+- ### ✅ Day 35 — Problem of the Day (POTD)
+- 🌅 Morning: Uploaded  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review
 ---
 
 ## 🎯 Focus Areas
