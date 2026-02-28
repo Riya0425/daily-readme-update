@@ -169,6 +169,11 @@ Focused on building consistency, improving problem-solving skills, and developin
 - 🌅 Morning: Uploaded  
 - 🌞 Afternoon: Revision  
 - 🌙 Evening: Review
+### ✅ Day 36 — Problem of the Day (POTD)
+- 🌅 Morning: Uploaded  
+- 🌞 Afternoon: Revision  
+- 🌙 Evening: Review
+
 ---
 
 ## 🎯 Focus Areas
