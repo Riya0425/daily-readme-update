@@ -181,7 +181,7 @@ Focused on building consistency, improving problem-solving skills, and developin
 - 🌅 Morning: Uploaded  
 - 🌞 Afternoon: Revision  
 - 🌙 Evening: Review
-✅ Day 39 — Problem of the Day (POTD)
+✅ Day 40 Problem of the Day (POTD)
 - 🌅 Morning: Uploaded  
 - 🌞 Afternoon: Revision  
 - 🌙 Evening: Review
